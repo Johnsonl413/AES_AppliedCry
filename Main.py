@@ -32,7 +32,7 @@ def generate_key():
     return key
 
 def encrypt_message(message, key):
-    for i in range(10): #10 rounds of encryption
+    #for i in range(10): #10 rounds of encryption
         
 
     encrypted_message = "encrypted_" + message  # This is just a dummy implementation
